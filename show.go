@@ -2,6 +2,6 @@ package use
 
 import ("fmt")
 
-func printName(name string){
+func PrintName(name string){
 	fmt.Printf("Hello %s !",name);
 }
